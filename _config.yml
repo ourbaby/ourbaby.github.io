@@ -1,6 +1,5 @@
 github:
-    is_project_page: false
-    theme: jekyll-theme-leap-day
+is_project_page: false
 repository_url: https://github.com/ourbaby.github.io
 
 
