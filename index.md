@@ -1,29 +1,19 @@
-## Welcome to GitHub Pages
+## 欢迎来到‘我们的孩子在一起玩’。
 
-You can use the [editor on GitHub](https://github.com/ourbaby/ourbaby.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ 我们尽量每天安排一个时间表， 因为孩子们睡觉的时间并不统一， 如果有了时间表，我们能知道啥时候有人在线，虽然可以群里问，但这样更直接一些。
+ 我们也可以在这里安排日程，如果你有什么大胆的想法，请说出来。
+ 这是一个非常原始的网页，只为了包含最重要的信息， 我晚点设置成每个爸爸都可以编辑。
+ 要记住，这是我们每个人的网站，如果你想改进它，那显然不需要咨询任何人。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 日程表包含
+ 
+### 日程表包含以下因素
+   
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
