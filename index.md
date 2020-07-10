@@ -8,20 +8,19 @@
  这是一个非常原始的网页，只为了包含最重要的信息， 我晚点设置成每个爸爸都可以编辑。
  要记住，这是我们每个人的网站，如果你想改进它，那显然不需要咨询任何人。
 
-### 今天
- - 9.00-10:00 am TBD（zoom link blablabla）
- - 10.00-11:00 am   TBD
- - 11.00-12:00 am   TBD
- - 1.00-2:00 am   TBD
- - 2.00-3:00 am   TBD
+### 本周
+||Sun|Mon|Tue|Wed|Thu|Fri|Sat|
+|---|---|---|---|---|---|---|---|
+|9-10 Am|TBD|TBD|TBD|TBD|TBD|TBD|TBD|
+|10-11 Am|TBD|TBD|TBD|TBD|TBD|TBD|TBD|
+|11-12 Am|TBD|TBD|TBD|TBD|TBD|TBD|TBD|
+|1-2 pm|TBD|TBD|TBD|TBD|TBD|TBD|TBD|
+|2-3 pm|TBD|TBD|TBD|TBD|TBD|TBD|TBD|
+|3-4 pm|TBD|TBD|TBD|TBD|TBD|TBD|TBD|
 
 
-### 本周值日爸爸
-    *张三*
-
-
-### 本周值日妈妈
-    **李四**
+### 本周值日
+    *甜甜爸*
 
 
 ### 本周家庭聚会
@@ -37,4 +36,5 @@
 ![](img/mickey.png)
 
 
+### 过往
 
